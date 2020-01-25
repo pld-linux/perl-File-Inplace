@@ -4,7 +4,6 @@
 #
 %define		pdir	File
 %define		pnam	Inplace
-%include	/usr/lib/rpm/macros.perl
 Summary:	File::Inplace - Perl module for in-place editing of files
 Summary(pl.UTF-8):	File::Inplace - moduł Perla do modyfikowania plików w miejscu
 Name:		perl-File-Inplace
