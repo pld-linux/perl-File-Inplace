@@ -8,7 +8,7 @@ Summary:	File::Inplace - Perl module for in-place editing of files
 Summary(pl.UTF-8):	File::Inplace - moduł Perla do modyfikowania plików w miejscu
 Name:		perl-File-Inplace
 Version:	0.20
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
